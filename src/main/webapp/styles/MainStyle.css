@@ -1,0 +1,62 @@
+body {
+	background-color: #ededed
+}
+
+.logsTitle {
+	margin: 25px 0;
+}
+
+.resultMessage {
+	color: red;
+	font-family: 'Rowdies', cursive;
+}
+
+.newUser {
+	margin: 10px;
+}
+
+.resultTable {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.addUserForm {
+	width: 45vw;
+	padding: 45px 55px 25px 55px;
+	margin: 25px auto;
+	border: 1px solid silver;
+	border-radius: 35px;
+	background-color: #e0e0e0;
+}
+
+.centeredTitle {
+	margin-top: 15px;
+	text-align: center;
+	width: 100%;
+}
+
+.myContainer {
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+.myContent {
+	width: 50%;
+}
+
+.categoryForm {
+	width: 50%;
+	margin: 0px auto;
+}
+
+.attributesList,
+.attributeForm {
+	width: 65%;
+	margin: 25px auto;
+}
+
+.centeredText {
+	text-align: center;
+}
